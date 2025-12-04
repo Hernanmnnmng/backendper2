@@ -36,6 +36,7 @@
     </script>
 </head>
 <body class="bg-gray-100">
+    @include('layouts.navigation')
     <div class="container">
         <h1 class="text-3xl font-bold mb-4">Overzicht Allergenen</h1>
         
